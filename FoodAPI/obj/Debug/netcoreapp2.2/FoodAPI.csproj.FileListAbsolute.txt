@@ -1,0 +1,14 @@
+D:\Angular\Project\FoodAPI\FoodAPI\bin\Debug\netcoreapp2.2\FoodAPI.deps.json
+D:\Angular\Project\FoodAPI\FoodAPI\bin\Debug\netcoreapp2.2\FoodAPI.runtimeconfig.json
+D:\Angular\Project\FoodAPI\FoodAPI\bin\Debug\netcoreapp2.2\FoodAPI.runtimeconfig.dev.json
+D:\Angular\Project\FoodAPI\FoodAPI\bin\Debug\netcoreapp2.2\FoodAPI.dll
+D:\Angular\Project\FoodAPI\FoodAPI\bin\Debug\netcoreapp2.2\FoodAPI.pdb
+D:\Angular\Project\FoodAPI\FoodAPI\obj\Debug\netcoreapp2.2\FoodAPI.csproj.CoreCompileInputs.cache
+D:\Angular\Project\FoodAPI\FoodAPI\obj\Debug\netcoreapp2.2\FoodAPI.RazorAssemblyInfo.cache
+D:\Angular\Project\FoodAPI\FoodAPI\obj\Debug\netcoreapp2.2\FoodAPI.RazorAssemblyInfo.cs
+D:\Angular\Project\FoodAPI\FoodAPI\obj\Debug\netcoreapp2.2\FoodAPI.AssemblyInfoInputs.cache
+D:\Angular\Project\FoodAPI\FoodAPI\obj\Debug\netcoreapp2.2\FoodAPI.AssemblyInfo.cs
+D:\Angular\Project\FoodAPI\FoodAPI\obj\Debug\netcoreapp2.2\FoodAPI.RazorTargetAssemblyInfo.cache
+D:\Angular\Project\FoodAPI\FoodAPI\obj\Debug\netcoreapp2.2\FoodAPI.dll
+D:\Angular\Project\FoodAPI\FoodAPI\obj\Debug\netcoreapp2.2\FoodAPI.pdb
+D:\Angular\Project\FoodAPI\FoodAPI\obj\Debug\netcoreapp2.2\FoodAPI.csprojAssemblyReference.cache
