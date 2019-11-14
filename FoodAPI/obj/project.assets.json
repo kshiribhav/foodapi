@@ -14055,23 +14055,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\huser\\.nuget\\packages\\": {},
+    "C:\\Users\\r1m1nrao\\.nuget\\packages\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Angular\\Project\\FoodAPI\\FoodAPI\\FoodAPI.csproj",
+      "projectUniqueName": "D:\\B5\\Online Food ordering system\\OrderfoodApi\\foodapi\\FoodAPI\\FoodAPI.csproj",
       "projectName": "FoodAPI",
-      "projectPath": "D:\\Angular\\Project\\FoodAPI\\FoodAPI\\FoodAPI.csproj",
-      "packagesPath": "C:\\Users\\huser\\.nuget\\packages\\",
-      "outputPath": "D:\\Angular\\Project\\FoodAPI\\FoodAPI\\obj\\",
+      "projectPath": "D:\\B5\\Online Food ordering system\\OrderfoodApi\\foodapi\\FoodAPI\\FoodAPI.csproj",
+      "packagesPath": "C:\\Users\\r1m1nrao\\.nuget\\packages\\",
+      "outputPath": "D:\\B5\\Online Food ordering system\\OrderfoodApi\\foodapi\\FoodAPI\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\huser\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\r1m1nrao\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [

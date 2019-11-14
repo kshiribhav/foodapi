@@ -138,7 +138,7 @@ namespace FoodAPI.Controllers
             {
                 BlobConnectionString = config.GetConnectionString("BlobConnection")
             };
-            var fileUri = await helper.UploadFileBlobAsync(imageFile, "Images");
+            var fileUri = await helper.UploadFileBlobAsync(imageFile, "images");
             System.IO.File.Delete(tempFile);
             return fileUri;
         }

@@ -12,3 +12,17 @@ D:\Angular\Project\FoodAPI\FoodAPI\obj\Debug\netcoreapp2.2\FoodAPI.RazorTargetAs
 D:\Angular\Project\FoodAPI\FoodAPI\obj\Debug\netcoreapp2.2\FoodAPI.dll
 D:\Angular\Project\FoodAPI\FoodAPI\obj\Debug\netcoreapp2.2\FoodAPI.pdb
 D:\Angular\Project\FoodAPI\FoodAPI\obj\Debug\netcoreapp2.2\FoodAPI.csprojAssemblyReference.cache
+D:\B5\Online Food ordering system\OrderfoodApi\foodapi\FoodAPI\bin\Debug\netcoreapp2.2\FoodAPI.deps.json
+D:\B5\Online Food ordering system\OrderfoodApi\foodapi\FoodAPI\bin\Debug\netcoreapp2.2\FoodAPI.runtimeconfig.json
+D:\B5\Online Food ordering system\OrderfoodApi\foodapi\FoodAPI\bin\Debug\netcoreapp2.2\FoodAPI.runtimeconfig.dev.json
+D:\B5\Online Food ordering system\OrderfoodApi\foodapi\FoodAPI\bin\Debug\netcoreapp2.2\FoodAPI.dll
+D:\B5\Online Food ordering system\OrderfoodApi\foodapi\FoodAPI\bin\Debug\netcoreapp2.2\FoodAPI.pdb
+D:\B5\Online Food ordering system\OrderfoodApi\foodapi\FoodAPI\obj\Debug\netcoreapp2.2\FoodAPI.csprojAssemblyReference.cache
+D:\B5\Online Food ordering system\OrderfoodApi\foodapi\FoodAPI\obj\Debug\netcoreapp2.2\FoodAPI.csproj.CoreCompileInputs.cache
+D:\B5\Online Food ordering system\OrderfoodApi\foodapi\FoodAPI\obj\Debug\netcoreapp2.2\FoodAPI.RazorAssemblyInfo.cache
+D:\B5\Online Food ordering system\OrderfoodApi\foodapi\FoodAPI\obj\Debug\netcoreapp2.2\FoodAPI.RazorAssemblyInfo.cs
+D:\B5\Online Food ordering system\OrderfoodApi\foodapi\FoodAPI\obj\Debug\netcoreapp2.2\FoodAPI.AssemblyInfoInputs.cache
+D:\B5\Online Food ordering system\OrderfoodApi\foodapi\FoodAPI\obj\Debug\netcoreapp2.2\FoodAPI.AssemblyInfo.cs
+D:\B5\Online Food ordering system\OrderfoodApi\foodapi\FoodAPI\obj\Debug\netcoreapp2.2\FoodAPI.RazorTargetAssemblyInfo.cache
+D:\B5\Online Food ordering system\OrderfoodApi\foodapi\FoodAPI\obj\Debug\netcoreapp2.2\FoodAPI.dll
+D:\B5\Online Food ordering system\OrderfoodApi\foodapi\FoodAPI\obj\Debug\netcoreapp2.2\FoodAPI.pdb
